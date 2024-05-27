@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.brand-area{
+   margin: 5rem 0 8rem 0;
+}
+
+.single-brand>img:hover{
+    transition: transform .6s ease;
+    transform: scale(1.1);
+    box-shadow: 1.5px 1.5px 3px 3px rgb(105, 104, 104);
+    border-radius: 10px;
+    /* filter: brightness(1.1); */
+}
+
+.years-span{
+    display: block;
+    margin-top: 0.8rem;
+    font-size: 1.5rem;
+}
+
+.years{
+    color: rgb(195, 105, 225);
+    font-size: 4rem;
+}
+
+.yearsh2{
+    margin-top: 1.1rem;
+    margin-bottom: 3rem;
+}
+
+.call-now>a{
+    font-size: 1.3rem;
+    color: rgb(0, 162, 255);
+    text-decoration: none;
+    display: block;
+}
+
+.call-icon{
+    margin-right: 2.5rem;
+}
+
+/* .years-area{
+    background-color: rgba(28, 27, 27, 0.1);
+} */
+
+

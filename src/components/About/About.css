@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.about-area{
+    padding: 5rem 3rem;
+}
+
+.about-image>img{
+    width: 55%;
+    height: 60%;
+    margin-left: 5rem;
+}
