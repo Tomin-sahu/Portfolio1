@@ -37,14 +37,14 @@ function Projects() {
                             <div className="Carousel-div">
                                 <h3>Gym Website (Project)</h3>
                                 <p>Developed a responsive gym website using HTML, CSS, and JavaScript to provide users with a visually appealing and interactive experience.</p>
-                                <a href="">Link : qwertyuioplkjhgfdsazxcvbnm,</a>
+                                <a href="https://github.com/Tomin-sahu/Gym_Website" target="_blank">To See the Project - Click On Link</a>
                             </div>
                         </Carousel.Item>
                         <Carousel.Item>
                             <div className="Carousel-div">
                                 <h3>Cafe Website (Project)</h3>
                                 <p>I developed a café project using HTML, CSS, and JavaScript, where users can browse through the café's menu, view details of different items, and place orders. Additionally, I implemented the project using the React framework, enhancing its interactivity and responsiveness.</p>
-                                <a href="">Link : qwertyuioplkjhgfdsazxcvbnm,</a>
+                                <a href="https://github.com/Tomin-sahu/Cafe_Website">To See the Project - Click On Link</a>
                             </div>
                         </Carousel.Item>
                         {/* <Carousel.Item>

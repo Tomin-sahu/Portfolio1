@@ -28,3 +28,9 @@
 .Carousel-div p{
     font-size: 1.2rem;
 }
+
+.Carousel-div a{
+    text-decoration: none;
+    font-size: 1.1rem;
+    /* color: yellow; */
+}
